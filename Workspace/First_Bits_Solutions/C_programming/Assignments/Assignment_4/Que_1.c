@@ -1,4 +1,4 @@
-//Print strong numbers in the given range 1 to n.
+//Print armstrong numbers in the given range 1 to n.
 #include <stdio.h>
 
 void main() {
@@ -32,3 +32,4 @@ void main() {
         num++;
     }
 }
+
